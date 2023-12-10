@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ravikant.purnchand/Downloads/mlflow/mlruns/0/9fc2884dc63245d8a0059b8a30961cfc/artifacts
+end_time: 1702226836592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fc2884dc63245d8a0059b8a30961cfc
+run_name: redolent-mule-393
+run_uuid: 9fc2884dc63245d8a0059b8a30961cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702226830775
+status: 3
+tags: []
+user_id: ravikant.purnchand

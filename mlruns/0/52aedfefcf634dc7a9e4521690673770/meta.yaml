@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ravikant.purnchand/Downloads/mlflow/mlruns/0/52aedfefcf634dc7a9e4521690673770/artifacts
+end_time: 1702226925593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52aedfefcf634dc7a9e4521690673770
+run_name: overjoyed-zebra-923
+run_uuid: 52aedfefcf634dc7a9e4521690673770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702226919177
+status: 3
+tags: []
+user_id: ravikant.purnchand

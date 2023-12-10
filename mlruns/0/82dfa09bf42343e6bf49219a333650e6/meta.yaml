@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ravikant.purnchand/Downloads/mlflow/mlruns/0/82dfa09bf42343e6bf49219a333650e6/artifacts
+end_time: 1702210639366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82dfa09bf42343e6bf49219a333650e6
+run_name: gregarious-elk-309
+run_uuid: 82dfa09bf42343e6bf49219a333650e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702210639119
+status: 3
+tags: []
+user_id: ravikant.purnchand

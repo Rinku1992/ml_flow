@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ravikant.purnchand/Downloads/mlflow/mlruns/0/5db23a8fcd254fe49e3c52b17df31ca0/artifacts
+end_time: 1702226853824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5db23a8fcd254fe49e3c52b17df31ca0
+run_name: bittersweet-frog-501
+run_uuid: 5db23a8fcd254fe49e3c52b17df31ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702226853519
+status: 4
+tags: []
+user_id: ravikant.purnchand

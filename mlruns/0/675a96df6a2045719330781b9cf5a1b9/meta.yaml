@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ravikant.purnchand/Downloads/mlflow/mlruns/0/675a96df6a2045719330781b9cf5a1b9/artifacts
+end_time: 1702226847990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 675a96df6a2045719330781b9cf5a1b9
+run_name: rogue-frog-357
+run_uuid: 675a96df6a2045719330781b9cf5a1b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702226842018
+status: 3
+tags: []
+user_id: ravikant.purnchand

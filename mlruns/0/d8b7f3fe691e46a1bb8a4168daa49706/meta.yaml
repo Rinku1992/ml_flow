@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ravikant.purnchand/Downloads/mlflow/mlruns/0/d8b7f3fe691e46a1bb8a4168daa49706/artifacts
+end_time: 1702226825381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8b7f3fe691e46a1bb8a4168daa49706
+run_name: rumbling-grouse-362
+run_uuid: d8b7f3fe691e46a1bb8a4168daa49706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702226825036
+status: 4
+tags: []
+user_id: ravikant.purnchand
